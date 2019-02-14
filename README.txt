@@ -1,6 +1,6 @@
 === Ultimate Search and Replace ===
 Contributors: mantrabrain
-Donate link: http://www.mantrabrain.com/
+Donate link: https:/mantrabrain.com/
 Tags: search, replace
 Requires at least: 3.3
 Requires PHP: 5.2.4
