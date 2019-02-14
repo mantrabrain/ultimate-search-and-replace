@@ -1,4 +1,4 @@
-# Copyright (C) 2016 Mantrabrain
+# Copyright (C) 2019 Mantrabrain
 # This file is distributed under the GPL-3.0.
 msgid ""
 msgstr ""
