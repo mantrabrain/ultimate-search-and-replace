@@ -11,7 +11,6 @@
 
 // Prevent direct access.
 if ( ! defined( 'USAR_PATH' ) ) exit;
-
 ?>
 
 <h3 id="usar-help-heading"><?php _e( 'Help & Troubleshooting', 'ultimate-search-and-replace' ); ?></h3>
