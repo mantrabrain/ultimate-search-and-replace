@@ -238,8 +238,6 @@ class USAR_Admin {
 					</tbody>
 				</table>
 
-				<p style="text-align:center;"><strong><?php _e( 'Want even more details, easy database migrations, and saved search/replace profiles?', 'ultimate-search-and-replace' ); ?><br>
-				<a href="https://mantrabrain.com/?utm_source=insideplugin&utm_medium=web&utm_content=results-modal&utm_campaign=pro-upsell" target="_blank"><?php _e( 'Learn more about the pro version', 'ultimate-search-and-replace' ); ?></a></strong></p>
 
 			</div>
 			<?php
