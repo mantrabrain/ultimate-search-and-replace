@@ -5,14 +5,14 @@ Tags: search, replace
 Requires at least: 3.3
 Requires PHP: 5.2.4
 Tested up to: 5.2.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: MIT License
 License URI: http://opensource.org/licenses/MIT
 
-Search and replace text from WordPress Database. This plugins allows you to search any string (text) from databsae and replace it with your new text. Mainly while migrating your site this tools helps you to replace text via this plugin.
+Search and replace text from WordPress Database. This plugins allows you to search any string (text) from databsae and replace it with your new text. Mainly while migrating your site this tool helps you to replace text via this plugin.
 
 == Description ==
-Search and replace text from WordPress Database. This plugins allows you to search any string (text) from databsae and replace it with your new text. Mainly while migrating your site this tools helps you to replace text via this plugin.
+Search and replace text from WordPress Database. This plugins allows you to search any string (text) from databsae and replace it with your new text. Mainly while migrating your site this tool helps you to replace text via this plugin.
 
 **Want to contribute?**
 
@@ -42,6 +42,9 @@ While doing search and replace if you enter a wrong search or replace string cou
 
 
 == Changelog ==
+= 1.0.1 | 2019/05/14 =
+* Minor issue fix
+
 = 1.0.0 =
 * Initial Release
 

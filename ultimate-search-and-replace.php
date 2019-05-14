@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Ultimate Search And Replace
- * Description:       Search and replace text from WordPress Database. This plugins allows you to search any string (text) from databsae and replace it with your new text. Mainly while migrating your site this tools helps you to replace text via this plugin.
+ * Description:       Search and replace text from WordPress Database. This plugins allows you to search any string (text) from databsae and replace it with your new text. Mainly while migrating your site this tool helps you to replace text via this plugin.
  * Version:           1.0.1
  * Author:            Mantrabrain
  * Author URI:        https://mantrabrain.com
