@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name:       Ultimate Search And Replace
- * Description:       Simple Search and replace plugin for WordPress database
- * Version:           1.0.0
+ * Description:       Search and replace text from WordPress Database. This plugins allows you to search any string (text) from databsae and replace it with your new text. Mainly while migrating your site this tools helps you to replace text via this plugin.
+ * Version:           1.0.1
  * Author:            Mantrabrain
  * Author URI:        https://mantrabrain.com
  * License:           GPL-3.0
@@ -57,7 +57,7 @@ function run_ultimate_search_and_replace() {
 		define( 'USAR_URL', plugin_dir_url( USAR_FILE ) );
 
 		// Defines the current version of the plugin.
-		define( 'USAR_VERSION', '1.0.0' );
+		define( 'USAR_VERSION', '1.0.1' );
 
 		/**
 		 * The core plugin class that is used to define internationalization,
